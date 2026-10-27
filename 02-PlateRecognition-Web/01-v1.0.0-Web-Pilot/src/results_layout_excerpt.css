@@ -1,0 +1,2 @@
+/* Selected result-grid style; other rules omitted. */
+.results-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 11px 10px; }

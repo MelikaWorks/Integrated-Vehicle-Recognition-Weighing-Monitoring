@@ -1,0 +1,4 @@
+2026-10-14 10:23:59,570 | INFO | MainThread | Application started; version=7.4.0
+agent_bridge.TransferError: توزین در نشست این ابزار باز نیست؛ ابزار را روی دسکتاپ کاربر باسکول اجرا کنید.
+2026-10-14 13:07:23,785 | INFO | MainThread | Application started; version=7.4.2
+2026-10-14 13:17:28,011 | INFO | MainThread | Application started; version=7.4.2

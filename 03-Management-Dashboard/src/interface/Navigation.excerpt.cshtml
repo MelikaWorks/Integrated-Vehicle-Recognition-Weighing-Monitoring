@@ -1,0 +1,35 @@
+@* Selected navigation fragment; layout and remaining views omitted. *@
+        <nav id="sidebar" class="sidebar js-sidebar">
+            <div class="sidebar-content js-simplebar">
+
+                <a class="sidebar-brand"
+                   asp-controller="Home"
+                   asp-action="Index">
+                    <span class="align-middle"> سامانه پلاکخوان </span>
+                </a>
+
+                <ul class="sidebar-nav">
+                    <li class="sidebar-header">
+                        مدیریت سامانه
+                    </li>                    
+
+                    <li class="sidebar-item active">
+                        <a class="sidebar-link"
+                           asp-controller="Home"
+                           asp-action="Index">
+                            <i class="align-middle" data-feather="sliders"></i>
+                            <span class="align-middle">پیشخوان</span>
+                        </a>
+                    </li>
+
+                    <li class="sidebar-item @(ViewContext.RouteData.Values["controller"]?.ToString() == "Towzin" ? "active" : "")">
+                        <a class="sidebar-link"
+                           asp-controller="Towzin"
+                           asp-action="Index">
+                            <i class="align-middle" data-feather="truck"></i>
+                            <span class="align-middle">سوابق توزین</span>
+                        </a>
+                    </li>
+
+                </ul>
+

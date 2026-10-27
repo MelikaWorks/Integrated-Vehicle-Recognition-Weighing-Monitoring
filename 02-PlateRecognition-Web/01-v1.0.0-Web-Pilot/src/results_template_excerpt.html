@@ -1,0 +1,12 @@
+<!-- Selected template fragment; layout and other controls omitted. -->
+      <div id="results" class="results-grid">
+        {% for i in range(4) %}
+        <article class="result-card" data-index="{{ i }}">
+          <h3>تشخیص {{ i + 1 }}</h3>
+          <div class="plate-preview"><span>—</span></div>
+          <div class="plate-text">—</div>
+          <button class="save-result" disabled>ثبت این پلاک</button>
+        </article>
+        {% endfor %}
+      </div>
+

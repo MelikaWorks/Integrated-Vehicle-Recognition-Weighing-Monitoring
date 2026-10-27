@@ -1,0 +1,7 @@
+settings.py
+*.local.json
+*.exe
+*.dll
+__pycache__/
+bin/
+obj/

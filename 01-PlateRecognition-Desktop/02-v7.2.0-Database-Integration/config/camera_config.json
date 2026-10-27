@@ -1,0 +1,7 @@
+{
+  "ip": "CAMERA_HOST",
+  "port": 554,
+  "path": "sub",
+  "username": "LOCAL_USER",
+  "password": "********"
+}

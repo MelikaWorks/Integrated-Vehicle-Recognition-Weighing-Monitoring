@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "server": "SQL_SERVER_HOST",
+  "database": "WEIGHBRIDGE_DB",
+  "trusted_connection": true,
+  "driver": "",
+  "username": "LOCAL_USER",
+  "password": "********",
+  "timeout_seconds": 5,
+  "connection_string": ""
+}

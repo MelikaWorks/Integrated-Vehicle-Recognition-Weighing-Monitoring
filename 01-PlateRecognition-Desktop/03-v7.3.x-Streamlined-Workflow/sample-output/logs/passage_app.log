@@ -1,0 +1,45 @@
+2026-10-13 14:46:12,162 | INFO | MainThread | Application started; version=7.3.3
+2026-10-13 15:01:34,331 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:16:05,567 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:16:16,123 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=58ع99379
+2026-10-13 15:16:16,126 | INFO | MainThread | Plate saved successfully: 58ع99379; source=ip_camera; image=yes
+2026-10-13 15:23:49,520 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:23:56,142 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=84ع98379
+2026-10-13 15:23:56,144 | INFO | MainThread | Plate saved successfully: 84ع98379; source=ip_camera; image=yes
+2026-10-13 15:24:48,118 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:26:37,558 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:26:43,935 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=86ع18379
+2026-10-13 15:26:43,937 | INFO | MainThread | Plate saved successfully: 86ع18379; source=ip_camera; image=yes
+2026-10-13 15:31:24,899 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:31:32,046 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=88م68279
+2026-10-13 15:31:32,047 | INFO | MainThread | Plate saved successfully: 88م68279; source=ip_camera; image=yes
+2026-10-13 15:39:28,684 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:39:35,287 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=84ع98379
+2026-10-13 15:39:35,288 | INFO | MainThread | Plate saved successfully: 84ع98379; source=ip_camera; image=yes
+2026-10-13 15:40:50,493 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:41:36,725 | INFO | MainThread | Application shutdown requested
+2026-10-13 15:41:36,778 | INFO | MainThread | Application closed
+2026-10-13 15:41:52,275 | INFO | MainThread | Application started; version=7.3.3
+2026-10-13 15:42:00,993 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:42:03,388 | INFO | one-shot-plate-detection | Failed frame saved: frame=1 reason=خروجی OCR ناقص بود file=failed_20261013_154203_382726_frame1_ocr_incomplete.jpg
+2026-10-13 15:42:05,564 | INFO | one-shot-plate-detection | Failed frame saved: frame=2 reason=خروجی OCR ناقص بود file=failed_20261013_154205_559502_frame2_ocr_incomplete.jpg
+2026-10-13 15:42:07,737 | INFO | one-shot-plate-detection | Failed frame saved: frame=3 reason=خروجی OCR ناقص بود file=failed_20261013_154207_732383_frame3_ocr_incomplete.jpg
+2026-10-13 15:42:09,322 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:43:48,445 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:44:10,071 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=88ع41279
+2026-10-13 15:44:10,074 | INFO | MainThread | Plate saved successfully: 88ع41279; source=ip_camera; image=yes
+2026-10-13 15:45:08,023 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:45:13,838 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=52ع33779
+2026-10-13 15:45:13,839 | INFO | MainThread | Plate saved successfully: 52ع33779; source=ip_camera; image=yes
+2026-10-13 15:55:59,585 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:57:32,723 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=88م68279
+2026-10-13 15:57:32,725 | INFO | MainThread | Plate saved successfully: 88م68279; source=ip_camera; image=yes
+2026-10-13 15:57:41,114 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 15:57:45,281 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=29ع84779
+2026-10-13 15:57:45,283 | INFO | MainThread | Plate saved successfully: 29ع84779; source=ip_camera; image=yes
+2026-10-13 16:10:55,650 | INFO | MainThread | UI action: automatic plate detection
+2026-10-13 16:11:18,154 | INFO | MainThread | Plate saved in SQL Server: towzin_code=1; plate=32ع65675
+2026-10-13 16:11:18,156 | INFO | MainThread | Plate saved successfully: 32ع65675; source=manual_entry; image=yes
+2026-10-13 16:26:53,957 | INFO | MainThread | Application shutdown requested
+2026-10-13 16:26:53,986 | INFO | MainThread | Application closed
+2026-10-27 13:19:38,825 | INFO | MainThread | Application started; version=7.3.3

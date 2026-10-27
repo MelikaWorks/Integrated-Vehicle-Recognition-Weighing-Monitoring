@@ -1,0 +1,45 @@
+/* Selected RTL rules from custom.css; remaining styles omitted. */
+    font-family: "Vazir", Tahoma, sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+}
+/* قرار گرفتن منو در سمت راست */
+.wrapper {
+    direction: rtl;
+}
+
+/* باز و بسته شدن منوی سمت راست */
+.sidebar {
+    margin-left: 0;
+}
+
+    .sidebar.collapsed {
+        margin-left: 0;
+        margin-right: -260px;
+    }
+
+@media (max-width: 991.98px) {
+    .sidebar {
+        margin-left: 0;
+        margin-right: -260px;
+    }
+
+        .sidebar.collapsed {
+            margin-left: 0;
+            margin-right: 0;
+        }
+}
+
+.main .content {
+    direction: rtl;
+    text-align: right;
+}
+
+    .main .content table {
+        direction: rtl;
+    }

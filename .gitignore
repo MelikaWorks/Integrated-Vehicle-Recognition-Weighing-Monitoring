@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.dll
+*.pdb
+
+# ML model weights
+*.pt
+*.pth
+*.onnx
+
+# Private configuration / secrets
+.env
+.env.*
+**/settings.py
+**/db_config.json
+**/db_config.local.json
+**/camera_config.json
+
+# Runtime data
+**/outputs/
+**/logs/
+**/camera_segments/
+**/failed_frames/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
